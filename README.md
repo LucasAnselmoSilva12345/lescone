@@ -24,7 +24,14 @@ O LeScone é um projeto do curso "CSS com Sass" da plataforma de estudo <a href=
 
 ## 🖥️ Acesse o projeto
 
-<a href="">LeScone</a>
+<a href="https://vigilant-blackwell-f26282.netlify.app/">LeScone</a>
+
+## 🖱️ Como executar o projeto
+
+1. Tenha o Git instaldo em sua máquina, caso não tenha, basta baixá-lo clicando aqui <a href=""></a>
+2. Após instalar ou já ter o Git em sua máquina, abra o terminal de seu computador e rode o comando:
+   "git clone [link desse repositório]"
+3. Após o download ser feito, basta abrir o projeto em seu editor de código e executar a página index. html usando o "live server"
 
 ## © - Responsável pelo desenvolvimento do projeto
 
