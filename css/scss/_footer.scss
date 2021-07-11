@@ -1,0 +1,22 @@
+footer {
+  padding: 20px 0;
+  background: $cinza;
+  @include box-shadow(0 0 0 10px $cinza);
+  .imgtext {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    p {
+      color: $bege-claro;
+      @include d(s) {
+        text-align: center;
+      }
+    }
+    @include d(s) {
+      margin: 20px auto;
+      img {
+        display: none;
+      }
+    }
+  }
+}
